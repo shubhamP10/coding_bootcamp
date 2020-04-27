@@ -5,4 +5,6 @@ then
 	echo "Employee is Absent";
 else
 	echo "Employee is Present";
+	wagePerHr=20;
+	workHr=8;
 fi
